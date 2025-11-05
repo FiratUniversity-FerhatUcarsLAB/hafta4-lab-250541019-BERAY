@@ -2,7 +2,7 @@
  * Ogrenci No: 250541019
  * Tarih: 05.11.2025
  * Açıklama: Görev-2 Geometrik Hesaplama
- * Bu kod yarıcapı 5 cm olan bir dairenin alanı, çevresi, çapını ve yarıçapı 5 cm olan bir kürenin hacmi ve yüzey alanını hesaplar.
+ * Bu program daire yarıçapını alıp, daire ve küre hesaplamaları yapar.
 
    import java.util.Scanner;
 
