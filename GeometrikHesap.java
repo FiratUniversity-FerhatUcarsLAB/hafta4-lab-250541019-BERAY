@@ -1,6 +1,7 @@
  * Ad Soyad: Beray Akar
  * Ogrenci No: 250541019
  * Tarih: 05.11.2025
+ * Açıklama: Görev-2 Geometrih Hesaplama
  * Bu kod yarıcapı 5 cm olan bir dairenin alanı, çevresi, çapını ve yarıçapı 5 cm olan bir kürenin hacmi ve yüzey alanını hesaplar.
 
    import java.util.Scanner;
