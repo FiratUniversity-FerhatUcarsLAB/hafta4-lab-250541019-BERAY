@@ -1,4 +1,4 @@
-/*
+
  * Ad Soyad: Beray Akar
  * Ogrenci No: 250541019
  * Tarih: 05.11.2025
@@ -6,8 +6,7 @@
  * 
  * Bu program kullanicidan ogrenci bilgilerini alir ve
  * duzenli bir formatta ekrana yazdirir.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
- */
+ 
 
 import java.util.Scanner;
 
