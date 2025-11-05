@@ -73,9 +73,7 @@ public class MaasHesap {
         System.out.printf("Saatlik Net Kazanç      : %10.2f TL%n", saatlikNetKazanc);
         System.out.printf("Günlük Net Kazanç       : %10.2f TL%n", gunlukNetKazanc);
         System.out.println("====================================");
-        System.out.println("F.U - B.A. (TF Yazılım Müh.)");
-        System.out.println("Lab. Hafta 4 | 23 Ekim 2025");
-
+       
         input.close();
     }
 }
