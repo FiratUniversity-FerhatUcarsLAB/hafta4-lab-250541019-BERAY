@@ -3,6 +3,8 @@
  * Tarih: 05.11.2025
  * Açıklama: Görev-3 Maaş Hesabı
 
+    Bu program çalışan bilgilerini alıp maaş bordrosunu hesaplar.
+
 
    import java.util.Scanner;
 
